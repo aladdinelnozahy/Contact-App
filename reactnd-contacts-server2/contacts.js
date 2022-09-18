@@ -27,19 +27,19 @@ const defaultData = {
       id: 'aladdin',
       name: 'Aladdin Elnozahy',
       handle: '@aladdinelnozahy',
-      avatarURL: config.origin + '/tyler.jpg'
+      avatarURL: config.origin + '/aladdin.png'
     },
     {
       id: 'hend',
       name: 'Hend Saad',
       handle: '@hendsaad',
-      avatarURL: config.origin + '/tyler.jpg'
+      avatarURL: config.origin + '/hend.png'
     },
     {
       id: 'judy',
       name: 'Judy Mohammed',
       handle: '@judymohammed',
-      avatarURL: config.origin + '/tyler.jpg'
+      avatarURL: config.origin + '/judy.png'
     }
   ]
 }
